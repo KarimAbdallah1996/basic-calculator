@@ -120,8 +120,3 @@ deleteButton.addEventListener('click', button => {
   calculator.updateDisplay()
 })
 
-
-
-
-
-
